@@ -1,0 +1,6 @@
+First page(index.html) of this site is just shows my skills in HTML and CSS 
+First page also consist the form validation part
+Main page of this project is recipes which you can nevigate from nav-bar
+Recipes page contains the food card which i made to iterate over API
+And every card contain a button which shows the more information about that perticular recipe
+Information is a single page which change the data for every perticular recipe by using API
